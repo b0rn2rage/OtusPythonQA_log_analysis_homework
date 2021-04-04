@@ -1,0 +1,87 @@
+{
+    "total_requests": {
+        "GET": 2248007,
+        "POST": 918924,
+        "PUT": 75,
+        "DELETE": 1,
+        "HEAD": 49973
+    },
+    "top_10_ip": [
+        [
+            "193.106.31.130",
+            235209
+        ],
+        [
+            "198.50.156.189",
+            167812
+        ],
+        [
+            "5.112.235.245",
+            166722
+        ],
+        [
+            "5.114.231.216",
+            158258
+        ],
+        [
+            "5.113.18.208",
+            157674
+        ],
+        [
+            "91.218.225.68",
+            134376
+        ],
+        [
+            "79.62.229.212",
+            114799
+        ],
+        [
+            "149.56.83.40",
+            97533
+        ],
+        [
+            "5.114.64.184",
+            94043
+        ],
+        [
+            "5.113.216.211",
+            89125
+        ]
+    ],
+    "top_10_execution_time": {
+        "GET 213.150.254.81 /templates/_system/css/general.css 18/Dec/2015:10:58:04": "9999",
+        "GET 91.113.9.251 /templates/_system/css/general.css 14/Jan/2016:21:00:06": "9999",
+        "GET 213.162.68.56 /templates/jp_hotel/css/template.css 06/Feb/2016:13:24:17": "9999",
+        "POST 178.91.136.152 /administrator/index.php 18/Feb/2016:07:48:10": "9999",
+        "GET 78.154.164.202 /administrator/ 18/Feb/2016:08:51:56": "9999",
+        "POST 77.47.202.71 /administrator/index.php 18/Feb/2016:14:54:30": "9999",
+        "POST 31.181.135.211 /administrator/index.php 18/Feb/2016:15:51:02": "9999",
+        "GET 31.173.240.53 /administrator/ 18/Feb/2016:16:54:22": "9999",
+        "POST 136.169.254.241 /administrator/index.php 18/Feb/2016:16:58:06": "9999",
+        "GET 188.163.102.207 /administrator/ 18/Feb/2016:18:04:17": "9999"
+    },
+    "client_errors": {
+        "GET 404 /apache-log/favicon.ico 128.74.162.38": 1996,
+        "GET 404 /templates/_system/css/general.css 158.64.79.8": 547,
+        "GET 404 /templates/_system/css/general.css 158.64.79.7": 459,
+        "GET 404 /apache-log/favicon.ico 46.188.125.44": 451,
+        "GET 404 /favicon.ico 158.64.79.8": 317,
+        "GET 404 /templates/_system/css/general.css 85.10.113.129": 276,
+        "GET 404 /apple-touch-icon-precomposed.png 62.46.187.218": 228,
+        "GET 404 /apple-touch-icon.png 62.46.187.218": 228,
+        "GET 404 /favicon.ico 62.46.187.218": 228,
+        "GET 404 /apple-touch-icon-precomposed.png 91.113.15.50": 220
+    },
+    "server_errors": {
+        "POST 500 /administrator/index.php 178.33.23.156": 589,
+        "GET 500 /index.php?option=com_content&view=9876sfi&id=49&Itemid=55 91.218.225.68": 30,
+        "GET 500 /index.php?view=article&catid=34:raith&id=49:ferienwohnung-1&tmpl=component&print=1&layout=9876sfi&page=&option=com_content&Itemid=47 91.218.225.68": 30,
+        "GET 500 /index.php?format=9876sfi&type=rss 91.218.225.68": 22,
+        "HEAD 500 /index.php?option=com_content&view=article'A=0&id=46&Itemid=54 100.1.14.108": 21,
+        "GET 500 /index.php?format=feed&type=9876sfi 91.218.225.68": 19,
+        "GET 500 http://almhuette-raith.at/administrator/index.php 134.249.53.185": 16,
+        "GET 500 /index.php?view=article&catid=34:raith&id=49:ferienwohnung-1&tmpl=component&print=1&layout=9876sfi&page=&option=com_content&Itemid=46 79.62.229.212": 15,
+        "GET 500 /index.php?option=com_content&amp;view=frontpage//?mosConfig_absolute_path=http://aquaplant.com.ua/form/tpl/templates_d/logx??? 176.31.226.22": 12,
+        "GET 500 /index.php?option=com_content&view=article'A=0&id=46&Itemid=54 100.1.14.108": 11
+    }
+}
